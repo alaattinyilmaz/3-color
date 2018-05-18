@@ -1,5 +1,5 @@
 
-**3-COLOR**
+# 3-COLOR
 
 **Problem Description**
 
