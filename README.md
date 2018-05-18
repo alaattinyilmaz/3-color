@@ -17,9 +17,7 @@ Red, Blue, Green - in such a way that no two nodes which are joined by an edge, 
  greedy coloring algorithm and a more efficient one 3-coloring in time O(1.3446n) algorithm by Richard Beigel and David Eppstein.
 
 In this project, we covered and analyzed the performance of the greedy approach to 3-COL problem.
- 
 
 
-
-
+For our analysis, please see the Project Report.
 
