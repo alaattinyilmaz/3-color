@@ -11,6 +11,8 @@ A graph colouring that properly uses k colors is called k-colouring. The k-colou
 - On an n-node undirected graph G(V,E) with node set V and edge set E, can each node of G(V,E) be assigned exactly one of three colors
 Red, Blue, Green - in such a way that no two nodes which are joined by an edge, are assigned the same color?
 
+![](https://image.ibb.co/cdKs3y/3color.png)
+
 **Algorithm**
 
  There is not an exact algorithm that solves 3-COL problem in polynomial time but there are some heuristics such as 
